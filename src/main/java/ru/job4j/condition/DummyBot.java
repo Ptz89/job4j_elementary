@@ -9,6 +9,7 @@ public class DummyBot {
             rsl = "До скорой встречи.";
         }
         return rsl;
+
     }
 
     static void main(String[] args) {

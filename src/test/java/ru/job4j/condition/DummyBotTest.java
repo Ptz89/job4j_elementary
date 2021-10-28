@@ -21,6 +21,7 @@ public class DummyBotTest {
         String result = DummyBot.answer(in);
         String expected = "До скорой встречи.";
         Assert.assertEquals(expected, result);
+
     }
 
     @Test
