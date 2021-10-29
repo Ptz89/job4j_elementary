@@ -17,7 +17,7 @@ public class TriangleTest {
     }
 
     @Test
-    public void whenNot() {
+    public void whenDoesNotExit() {
         double ab = 5.0;
         double ac = 2.0;
         double bc = 2.0;
