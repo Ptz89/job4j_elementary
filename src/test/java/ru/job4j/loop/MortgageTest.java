@@ -7,7 +7,6 @@ import static org.junit.Assert.*;
 
 public class MortgageTest {
 
-
     @Test
     public void when1Year() {
         int amount = 1000;
